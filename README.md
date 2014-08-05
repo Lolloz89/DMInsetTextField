@@ -9,3 +9,5 @@ to have the caret on the screen border.
 Usage:
 Just change your textField class to DMInsetTextField in your nib or storyboard.
 
+Using the "User Runtime Defined Attributes" in Interface Builder you can easily set the desired inset value by specifying the 'inset' keyPath and set an NSNumber value, or change that property in your view controller.
+

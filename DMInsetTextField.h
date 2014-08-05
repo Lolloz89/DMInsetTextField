@@ -10,4 +10,6 @@
 
 @interface DMInsetTextField : UITextField
 
+@property (nonatomic, strong) NSNumber *inset;
+
 @end
