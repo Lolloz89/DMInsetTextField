@@ -6,3 +6,6 @@ pixels.
 Useful when you have a full width textfield and you don’t want
 to have the caret on the screen border.
 
+Usage:
+Just change your textField class to DMInsetTextField in your nib or storyboard.
+
